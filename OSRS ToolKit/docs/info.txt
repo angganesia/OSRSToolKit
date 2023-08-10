@@ -1,0 +1,33 @@
+	<< Copyright (C)  2023 OSRS ToolKit >>
+	<< https://es.fiverr.com/abelgranados >>
+
+Dropall :
+Hanya klik semua item dalam inventory
+Gunakan RuneLite Plugin (Custom Left Click drop)
+https://runelite.net/plugin-hub/show/zom-leftclick-dropper
+
+High Alch : 
++ Kordinat 1 (High Alch Spell)
++ Kordinat 2 (Item High Alch)
+GunakanMinDelay 2000, MaxDdelay 2500 Tik 1
+Mulai dari High Alch Spell dan jalankan Script.
+
+Blue dhide body:
++ Kordinat 1 (Deposit item to bank)
++ Kordinat 2 (Withdraw item)
++ Kordinat 3 (Pilih tool Needle)
++ Kordinat 4 (Pilih item Leather)
+Gunakan MinDelay 200, MaxDdelay 400 
+Tik 3/item (Blue d'hide body) 24 Tik/Proses
+Mulai dari Bank terbuka dan jalankan script.
+Tempatkan Cursor tepat di posisi bank.
+
+SuperGlass:
++ Kordinat 1 (Deposit item to bank)
++ Kordinat 2 (Withdraw item Bucket of sand)
++ Kordinat 3 (Withdraw item Giant seaweed
++ Kordinat 4 (Opstional jika menggunakan komposisi 18:3)
++ Kordinat 5 (Spell SuperGlass Make)
+Gunakan MinDelay 200, MaxDdelay 400 Tik 3
+Mulai dari Bank terbuka dan jalankan script.
+Tempatkan Cursor tepat di posisi bank.
